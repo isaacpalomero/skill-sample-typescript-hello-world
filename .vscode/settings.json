@@ -21,5 +21,6 @@
   },
   "npm.exclude": [
     "**/lambda/custom/package.json"
-  ]
+  ],
+  "eslint.enable": false
 }
